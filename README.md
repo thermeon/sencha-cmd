@@ -1,7 +1,7 @@
 sencha-cmd docker
 =================
 
-Docker image to run Sencha Cmd 6.2.2.36 with Sencha Compass
+Docker image to run Sencha Cmd 6.5.1.240 with Sencha Compass
 
 Build Production App
 --------------------
